@@ -1,0 +1,20 @@
+.user-profile {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.user-name {
+  font-family: 'Roboto', sans-serif;
+  color: #12022f;
+}
+
+.user-designation {
+  font-family: 'Roboto', sans-serif;
+  color: #616e7c;
+}
